@@ -1,0 +1,30 @@
+#cft- Cloud formation template
+#Iac:- Infrastructure as a code
+#It is Declarative and versioned control
+#Declarative:- What you see is what you have
+When should use AWS cli?
+Quick & short action(Geeting bucket details)
+When should use aws cft?
+For creating resources
+
+CFT supports both Json and yaml
+In yaml tou can add commenting, Indention, Readable
+
+CFT supports Drift Detection
+It will give someone modified changes in infrastructurer which you created through Cloudformation template
+
+What is stacks?
+
+Basic of CFT
+1. Version 
+2. Description
+3. Metadata
+4. Parameters
+5. rules
+6. mapping 
+7. Resources
+8. outputs
+
+Terraform can use for multi cloud
+crossplane is also Iac we can use
+
